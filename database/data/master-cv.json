@@ -1,0 +1,118 @@
+{
+    "name": "Alex Morgan",
+    "headline": "Senior Software Engineer · Laravel & Vue.js · 8+ years",
+    "location": "Cape Town, South Africa",
+    "email": "alex.morgan@example.com",
+    "phone": "",
+    "links": [
+        {
+            "label": "GitHub",
+            "url": "https://github.com/example"
+        }
+    ],
+    "summary": "Senior Software Engineer with 8+ years of building web applications, most recently on subscription billing for a SaaS company. I work mainly in Laravel and Vue.js, enjoy turning legacy code into something the team is happy to change, and care about tests, clear code reviews and shipping in small steps.",
+    "highlights": [
+        "Rebuilt a subscription billing system used by 4,000 businesses, cutting failed renewals by 30%",
+        "Led a team of 3 developers through a move from a legacy PHP monolith to Laravel",
+        "Introduced automated tests and CI to a codebase that had none, catching regressions before release"
+    ],
+    "experience": [
+        {
+            "role": "Senior Software Engineer",
+            "company": "Example SaaS Co.",
+            "location": "Cape Town · Hybrid",
+            "start": "Mar 2022",
+            "end": "Present",
+            "summary": "B2B subscription software for small businesses",
+            "bullets": [
+                "Rebuilt the subscription billing system, adding retries and dunning emails that cut failed renewals by 30%",
+                "Led a team of 3 developers on a year-long migration from a legacy PHP monolith to Laravel",
+                "Added feature tests and a CI pipeline so regressions are caught before release"
+            ],
+            "tech": ["PHP", "Laravel", "Vue.js", "MySQL", "Redis", "AWS"]
+        },
+        {
+            "role": "Software Engineer",
+            "company": "Sample Logistics",
+            "location": "Cape Town",
+            "start": "Jan 2019",
+            "end": "Feb 2022",
+            "summary": "Delivery tracking for regional couriers",
+            "bullets": [
+                "Built the customer-facing delivery tracking portal in Vue.js",
+                "Integrated three courier APIs behind a single internal interface"
+            ],
+            "tech": ["PHP", "Laravel", "Vue.js", "PostgreSQL"]
+        },
+        {
+            "role": "Web Developer",
+            "company": "Demo Digital Agency",
+            "location": "Stellenbosch",
+            "start": "Jun 2017",
+            "end": "Dec 2018",
+            "summary": "",
+            "bullets": [
+                "Built and maintained client websites and WooCommerce stores",
+                "Introduced Git and code review to a team that shared code over FTP"
+            ],
+            "tech": ["PHP", "WordPress", "WooCommerce", "JavaScript"]
+        },
+        {
+            "role": "Junior Developer",
+            "company": "Placeholder Systems",
+            "location": "Cape Town",
+            "start": "Jan 2016",
+            "end": "May 2017",
+            "summary": "",
+            "bullets": [
+                "Built internal reporting tools for the operations team"
+            ],
+            "tech": ["PHP", "JavaScript", "MySQL"]
+        }
+    ],
+    "skills": [
+        {
+            "group": "Backend",
+            "items": ["PHP", "Laravel", "REST APIs", "Queues"]
+        },
+        {
+            "group": "Frontend",
+            "items": ["Vue.js", "Inertia", "Tailwind CSS"]
+        },
+        {
+            "group": "Data & infrastructure",
+            "items": ["MySQL", "PostgreSQL", "Redis", "AWS"]
+        },
+        {
+            "group": "Engineering practice",
+            "items": ["Automated testing", "CI/CD", "Code review", "Mentoring"]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Private CV portal",
+            "url": null,
+            "description": "This site: a PIN-protected CV with a tailored version and cover letter per job application, and view tracking."
+        }
+    ],
+    "education": [
+        {
+            "qualification": "BSc Computer Science",
+            "institution": "Example University",
+            "start": "2012",
+            "end": "2015",
+            "notes": ""
+        }
+    ],
+    "certifications": [],
+    "references": [
+        {
+            "name": "Jordan Lee",
+            "title": "Head of Engineering",
+            "company": "Example SaaS Co.",
+            "relationship": "Line manager",
+            "email": "jordan.lee@example.com",
+            "phone": null
+        }
+    ]
+}
